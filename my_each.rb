@@ -1,4 +1,4 @@
-def my_each(words) do |word|
+def my_each(words)
    i = 0 
   puts word
   while i <array.length 
