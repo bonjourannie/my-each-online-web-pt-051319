@@ -1,6 +1,5 @@
-def my_each(array) # put argument(s) here
-  # code here
+def my_each(words) do |word|
+  puts word
   while 
-  puts words.length 
   
 end
